@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Senevirathna K.M.A.N</h1>
-<h3 align="center">A 💻 passionate Computer Engineering Undergraduate.</h3>
+<h3 align="center">A passionate 💻 Computer Engineering Undergraduate.</h3>
 
 ***
 
